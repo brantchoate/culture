@@ -41,3 +41,6 @@ Collection of company culture documents with information on how it's actually fo
 * [More on the Values from Quora](https://www.quora.com/What-is-Airbnbs-mission-vision-statement)
 * [Dont Fuck up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
 * [Engineering Culture](http://nerds.airbnb.com/engineering-culture-airbnb/)
+
+###Stormpath
+* [Ways to build an engineering culture](https://stormpath.com/blog/how-to-build-engineering-culture/)
