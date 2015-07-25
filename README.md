@@ -1,6 +1,11 @@
 # culture
 Collection of company culture documents with information on how it's actually followed (according to the internet)
 
+###Github
+* [How Github Works](http://zachholman.com/posts/how-github-works/) - Hours are BS, Be Asynchronous, Creativity is Important
+* [Harassment Lawsuit](http://valleywag.gawker.com/github-cofounder-resigns-after-internal-harassment-inve-1565714008)
+* [More Lawsuit Stuff](http://valleywag.gawker.com/ims-and-email-support-allegations-about-the-toxic-cultu-1567175545)
+
 ###Netflix:
 * [Culture Explanation from Reed Hastings](http://www.slideshare.net/reed2001/culture-1798664)
 * Glassdoor - [Culture of Fear](http://www.glassdoor.com/GD/Reviews/Netflix-Reviews-E11891.htm?filter.jobTitleFTS=engineer&filter.defaultEmploymentStatuses=false&filter.employmentStatus=REGULAR&filter.employmentStatus=PART_TIME) is used quite a lot 
@@ -24,6 +29,9 @@ Collection of company culture documents with information on how it's actually fo
 
 ###Google
 * [What Google Believes](http://www.google.com/about/company/philosophy/)
+
+###Slack
+* [Building the workplace we want](http://slackhq.com/post/107934093600/building-the-workplace-we-want)
 
 ###AirBNB
 * [Video on Core Values](https://gist.github.com/sprice/11157970)
