@@ -6,6 +6,9 @@ Collection of company culture documents with information on how it's actually fo
 * [Harassment Lawsuit](http://valleywag.gawker.com/github-cofounder-resigns-after-internal-harassment-inve-1565714008)
 * [More Lawsuit Stuff](http://valleywag.gawker.com/ims-and-email-support-allegations-about-the-toxic-cultu-1567175545)
 
+###Palantir
+* [Engineering Culture](https://www.palantir.com/engineering-culture/)
+
 ###Netflix:
 * [Culture Explanation from Reed Hastings](http://www.slideshare.net/reed2001/culture-1798664)
 * Glassdoor - [Culture of Fear](http://www.glassdoor.com/GD/Reviews/Netflix-Reviews-E11891.htm?filter.jobTitleFTS=engineer&filter.defaultEmploymentStatuses=false&filter.employmentStatus=REGULAR&filter.employmentStatus=PART_TIME) is used quite a lot 
