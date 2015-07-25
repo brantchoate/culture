@@ -8,5 +8,8 @@ Collection of company culture documents with specific implementation details and
 ###Genius
 * [The Genius ISMS](http://genius.com/Genius-the-genius-isms-annotated)
 
+###Pinterest
+* [Quora answers on Pinterest culture](https://www.quora.com/What-is-it-like-to-work-at-Pinterest)
+
 ###Hubspot
 * [Culture Code](http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love)
