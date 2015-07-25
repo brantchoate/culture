@@ -1,6 +1,10 @@
 # tech culture links
 Collection of company culture documents with information on how it's actually followed (according to the internet)
 
+###Spotify
+* [Engineering Culture Pt 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
+* [Engineering Culture Pt 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
+
 ###Github
 * [How Github Works](http://zachholman.com/posts/how-github-works/) - Hours are BS, Be Asynchronous, Creativity is Important
 * [Harassment Lawsuit](http://valleywag.gawker.com/github-cofounder-resigns-after-internal-harassment-inve-1565714008)
