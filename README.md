@@ -1,4 +1,4 @@
-# tech culture
+# tech culture links
 Collection of company culture documents with information on how it's actually followed (according to the internet)
 
 ###Github
