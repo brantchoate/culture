@@ -1,5 +1,5 @@
-# tech culture links
-Collection of company culture documents with information on how it's actually followed (according to the internet)
+# tech culture case studies
+Collection of company culture documents with information on how it's actually followed (the good and the bad)
 
 ###Spotify
 * [Engineering Culture Pt 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
