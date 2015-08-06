@@ -48,6 +48,3 @@ Collection of company culture documents with information on how it's actually fo
 
 ###Stormpath
 * [Ways to build an engineering culture](https://stormpath.com/blog/how-to-build-engineering-culture/)
-
-####Random Links
-* [Quora post on what makes good engineering culture](https://www.quora.com/What-makes-a-good-engineering-culture)
