@@ -1,6 +1,9 @@
 # tech culture case studies
 Collection of company culture documents with information on how it's actually followed (the good and the bad)
 
+###Facebook
+* [Facebook Core Values](http://deliveringhappiness.com/facebooks-5-core-values-for-success-at-work/)
+
 ###Spotify
 * [Engineering Culture Pt 1](https://labs.spotify.com/2014/03/27/spotify-engineering-culture-part-1/)
 * [Engineering Culture Pt 2](https://labs.spotify.com/2014/09/20/spotify-engineering-culture-part-2/)
